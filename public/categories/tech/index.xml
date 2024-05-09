@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech on Huohuo Blog</title>
+    <link>http://localhost:1313/categories/tech/</link>
+    <description>Recent content in Tech on Huohuo Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 May 2024 20:49:14 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test2</title>
+      <link>http://localhost:1313/post/test2/</link>
+      <pubDate>Thu, 09 May 2024 20:49:14 +0800</pubDate>
+      <guid>http://localhost:1313/post/test2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>An Example Post</title>
+      <link>http://localhost:1313/post/test/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/test/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>An Example Post</title>
+      <link>http://localhost:1313/post/world/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/world/</guid>
+      <description>Can you see this post?你能看见吗？</description>
+    </item>
+    <item>
+      <title>Hello</title>
+      <link>http://localhost:1313/post/hello/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/hello/</guid>
+      <description>你好！</description>
+    </item>
+    <item>
+      <title>Third Post</title>
+      <link>http://localhost:1313/post/third/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/third/</guid>
+      <description>Can you see this post?你能看见吗？ hahahh</description>
+    </item>
+  </channel>
+</rss>
